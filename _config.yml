@@ -1,7 +1,7 @@
 name: Domains
 favicon: null
-layout_spectrum: 0.5094456791412085
-typography_spectrum: 0.32424355018883944
+layout_spectrum: 0.50704
+typography_spectrum: 0.29177
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#ffffff'
+    - '#6666a4'
+    - '#e00000'
+    - '#07223f'
+    - '#fad15f'
   brandStrength: 0.6200893418863416
   lightness: 0.2947724489495158
   saturation: 0.05712886503897607
